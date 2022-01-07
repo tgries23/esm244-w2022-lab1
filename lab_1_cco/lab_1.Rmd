@@ -1,7 +1,7 @@
 ---
 title: "ESM 244 Lab 1"
-author: "Casey O'Hara"
-date: "1/4/2022"
+author: "Taylor Gries"
+date: "1/6/2022"
 output: html_document
 ---
 
