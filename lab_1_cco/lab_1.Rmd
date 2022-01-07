@@ -12,6 +12,8 @@ library(tidyverse)
 library(here)
 library(sf) # install.packages('sf')
 library(tmap)
+old.packages()
+update.packages(ask = FALSE)
 ### install.packages('tmap')
 ### update.packages(ask = FALSE)
 ```
